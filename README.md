@@ -1,2 +1,2 @@
-# chirimen_test_i2c
+# chirimen_test_gpio
 Created with CodeSandbox
